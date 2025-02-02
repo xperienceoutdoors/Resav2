@@ -1,0 +1,8 @@
+NODE_ENV=development
+PORT=3001
+JWT_SECRET=your-secret-key-here
+DB_USERNAME=root
+DB_PASSWORD=VOTRE_MOT_DE_PASSE_MYSQL
+DB_DATABASE=resav2
+DB_HOST=localhost
+DB_DIALECT=mysql
