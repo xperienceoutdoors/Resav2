@@ -27,3 +27,5 @@ yarn-error.log*
 
 # OS
 .DS_Store
+frontend/node_modules/
+backend/node_modules/
